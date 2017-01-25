@@ -48,3 +48,7 @@
 
 9.	Hver fann upp GIT?
     - Linus Torvalds fann upp git en hann er ekki að vinna að því núna heldur er það Junio Hamano sem heldur utan um það núna.
+
+
+10.	Hvar er GIT helst notað?
+	- Í allskonar verkefnum þar sem mikið að fólki er að vinna að því á sama tíma en það þarf ekki, getur haft það fyrir það sem þú ert einn að vinna að og notað það einfaldlega til að halda utan um það og til að hafa version control.
