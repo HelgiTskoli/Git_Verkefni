@@ -15,3 +15,10 @@
 	git status    - Gefur upp hvaða skrár hafa mismun á aðal skránni, gagnlegt til að finna réttu skránna
 	git diff      - Sýnir mismun á milli skráa, gagnlegt því maður getur ákveðið hvað maður vill halda og ekki
 	git checkout  - Uppfærir skrár eftir hvað þú velur
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+
+	a) git diff                 - Almenn skipun
+	b) git diff --staged        - Sýnir staged area ekki working area
+	c) git diff commit1 commit2 - Ber saman commits
