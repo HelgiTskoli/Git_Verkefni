@@ -44,3 +44,7 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
     - Þegar þú vilt prófa/breyta einhverju en þú ert ekki viss að það muni virka viltu frekar hafa það í sér branch heldur en að það geri eitthvað við aðal.
+
+
+9.	Hver fann upp GIT?
+    - Linus Torvalds fann upp git en hann er ekki að vinna að því núna heldur er það Junio Hamano sem heldur utan um það núna.
