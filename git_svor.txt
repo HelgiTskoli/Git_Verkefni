@@ -30,4 +30,8 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT?
     - Gott að halda utan um verkefni sem margir eru að vinna á og Version Control er mjög þægilegt
-    
+
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	- Eins oft og þarft er mundi ég segja svo engin gögn tapist.
+	
