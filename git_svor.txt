@@ -1,1 +1,7 @@
 #Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd      -  Stendur fyrir "change directory" og er notað til að færa sig á milli directories
+	cd ~    -  Þú ferð í heima directory
+	ls      -  Sýnir allar möppur og skrár í directoryi
+	pwd		-  Stendur fyrir "	Print Working Directory" og sýnir svæðið sem þú ert að vinna í
+	mkdir   -  Stendur fyrir "Make Directory" og mapur gerir þetta til að búa til ný directory
