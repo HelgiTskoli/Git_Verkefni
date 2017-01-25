@@ -40,4 +40,7 @@
 	- Working directory er einfaldlega directoryið sem þú ert í/ að vinna með
 	- Staging area er það sem þú geymir skrárnar áður en þær eru notaðar
 	- Repository er data structure sem geymir öll gögn sem þú ert með
-	
+
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+    - Þegar þú vilt prófa/breyta einhverju en þú ert ekki viss að það muni virka viltu frekar hafa það í sér branch heldur en að það geri eitthvað við aðal.
