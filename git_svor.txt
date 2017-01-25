@@ -22,3 +22,7 @@
 	a) git diff                 - Almenn skipun
 	b) git diff --staged        - Sýnir staged area ekki working area
 	c) git diff commit1 commit2 - Ber saman commits
+
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	- Kerfi sem stjórnar öllum breytingum og geymir þær svo þú getur alltaf farið til baka í gamla útgáfu
